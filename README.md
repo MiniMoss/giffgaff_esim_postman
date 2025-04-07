@@ -1,6 +1,7 @@
-# PostMan脚本绕过限制直接获取giffgaff Esim 
+# PostMan脚本绕过限制直接获取giffgaff eSim 
 
-## YouTube视频教程地址：https://youtu.be/hRY8s_uFs0A
+## YouTube视频教程地址
+  https://youtu.be/hRY8s_uFs0A
 
 ## 🎬 视频内容概览：
 - **giffgaff App申请eSIM**：  
